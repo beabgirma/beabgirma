@@ -1,6 +1,6 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B,+I'm+Beab+Girma;Welcome+to+my+GitHub!;Backend+%26+Cloud+Student;Building+real-world+Python+projects)
+![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B,+I'm+Beab+Girma;Third-Year+Student+at+UBC+Okanagan;Backend+%26+Database+Enthusiast;Building+real-world+Python+projects)
 
 </p>
 
@@ -11,17 +11,36 @@
 **Hello! My name is Beab Girma.**  
 I'm a **third-year university student studying in Canada at UBC Okanagan (UBCO)**.
 
-I am currently learning **backend development, cloud operations, and API design**. I enjoy building practical projects that show real technical skills, including APIs, testing, clean project structure, and GitHub workflows.
+I am currently learning **backend development, cloud operations, API design, and databases**.  
+I enjoy building practical projects that show real technical skills, including APIs, testing, clean project structure, GitHub workflows, and data storage.
 
 Right now, I am focused on:
 
-- Python backend development
-- FastAPI projects
-- REST APIs
-- Pytest testing
-- Git and GitHub workflows
-- GitHub Actions
-- Cloud/devops fundamentals
+<p>
+  <img src="https://img.shields.io/badge/PYTHON_BACKEND-3776AB?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/DATABASES-8A2BE2?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/TESTING-0A9EDC?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-FF6F00?style=for-the-badge&labelColor=111111" />
+</p>
+
+---
+
+## Current Focus
+
+I am building projects that help me understand how real backend systems work.
+
+My main interests are:
+
+- Backend API development
+- Databases and data storage
+- Clean project architecture
+- Testing and automation
+- GitHub pull request workflows
+- Cloud and devops fundamentals
+
+I especially enjoy learning about **databases**, how data is stored, how applications retrieve it, and how backend systems are structured around it.
+
 ---
 
 ## 🚀 Recent Projects
@@ -29,6 +48,14 @@ Right now, I am focused on:
 ### [MIS CloudOps Dashboard](https://github.com/beabgirma/mis-cloudops-dashboard)
 
 A cloud-based MIS operations dashboard built with FastAPI.
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/PYDANTIC-E92063?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&labelColor=111111" />
+</p>
 
 **What it includes:**
 
@@ -45,11 +72,19 @@ A cloud-based MIS operations dashboard built with FastAPI.
 
 A lightweight Redis-inspired in-memory key-value database built with Python.
 
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/DATABASE_PROJECT-8A2BE2?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/KEY_VALUE_STORAGE-00C2FF?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/REDIS_CONCEPTS-DC382D?style=flat-square&labelColor=111111" />
+</p>
+
 **What it includes:**
 
 - Command parsing
 - In-memory storage
 - SET, GET, and DELETE logic
+- Key-value database concepts
 - Backend/database fundamentals
 
 ---
@@ -57,6 +92,12 @@ A lightweight Redis-inspired in-memory key-value database built with Python.
 ### [Study Companion App](https://github.com/beabgirma/Study_Companion_App)
 
 A study-focused app project built while learning web development.
+
+<p>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&labelColor=111111" />
+</p>
 
 ---
 
@@ -74,47 +115,74 @@ A study-focused app project built while learning web development.
 
 ## Technologies & Tools
 
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=111111" />
 </p>
 
 ### Backend & APIs
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/REST_APIS-FF6F00?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/PYDANTIC-E92063?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&labelColor=111111" />
 </p>
 
-### Tools & Environments
+### Databases & Storage
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://img.shields.io/badge/DATABASE_DESIGN-8A2BE2?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/REDIS_CONCEPTS-DC382D?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/KEY_VALUE_STORAGE-00C2FF?style=for-the-badge&labelColor=111111" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/CURSOR-6C63FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/TERMINAL-4D4D4D?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&labelColor=111111" />
 </p>
 
 ---
 
 ## What I'm Learning Right Now
 
-- Building clean backend APIs
-- Writing tests with Pytest
-- Structuring projects with routers, services, repositories, and schemas
-- Using branches and pull requests professionally
-- Running automated tests with GitHub Actions
-- Learning cloud and devops basics
+<p>
+  <img src="https://img.shields.io/badge/CLEAN_BACKEND_APIS-00C2FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/PYTEST_TESTING-0A9EDC?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/DATABASE_DESIGN-8A2BE2?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/FASTAPI_STRUCTURE-009688?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-FF6F00?style=for-the-badge&labelColor=111111" />
+</p>
+
+I am currently practicing how to build backend systems that are organized, tested, and easier to grow.
 
 ---
 
-## Current Focus
+## Why I Build Projects
 
-I'm building projects that show real backend and cloud skills, not just simple tutorials.
+I build projects to learn by doing.
+
+Instead of only following tutorials, I try to understand:
+
+- How backend apps are structured
+- How APIs receive and return data
+- How tests protect the code
+- How GitHub workflows work in real projects
+- How databases store and organize information
 
 My goal is to keep improving by building, testing, breaking things, fixing them, and documenting what I learn.
 
@@ -123,7 +191,7 @@ My goal is to keep improving by building, testing, breaking things, fixing them,
 ## Contact Me
 
 - 🧑‍💻 GitHub: [beabgirma](https://github.com/beabgirma)
-- 💼 LinkedIn:https://www.linkedin.com/in/beab-girma-yifrashewa-82178b350/
+- 💼 LinkedIn: Add your LinkedIn link here
 - ✉️ Email: Add your email here
 - 🌍 Portfolio: Add your portfolio link here
 
