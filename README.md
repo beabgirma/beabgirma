@@ -1,6 +1,6 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pacifico&size=38&duration=3000&pause=700&color=003366&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B,+I'm+Beab+Girma)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pacifico&size=38&duration=3000&pause=700&color=003366&center=true&vCenter=true&width=950&lines=Hi,+I'm+Beab+Girma)
 
 </p>
 
