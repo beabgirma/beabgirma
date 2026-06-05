@@ -39,6 +39,12 @@ Right now, I am focused on:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=beabgirma&repo=mini-redis&theme=tokyonight&hide_border=true" />
 </a>
 
+<br><br>
+
+<a href="https://github.com/beabgirma/Study_Companion_App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beabgirma&repo=Study_Companion_App&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
 ---
@@ -116,6 +122,14 @@ Right now, I am focused on:
 
 ---
 
+## Current Focus
+
+I'm building projects that show real backend and cloud skills, not just simple tutorials.
+
+My goal is to keep improving by building, testing, breaking things, fixing them, and documenting what I learn.
+
+---
+
 ## Contact Me
 
 - 🧑‍💻 GitHub: [beabgirma](https://github.com/beabgirma)
@@ -125,4 +139,6 @@ Right now, I am focused on:
 
 ---
 
-Thanks for visiting my profile!
+<p align="center">
+  Thanks for visiting my profile!
+</p>
