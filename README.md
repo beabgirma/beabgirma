@@ -1,6 +1,6 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B,+I'm+Beab+Girma;Third-Year+Student+at+UBC+Okanagan;Backend+%26+Database+Enthusiast;Building+real-world+Python+projects)
+![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B,+I'm+Beab+Girma;)
 
 </p>
 
