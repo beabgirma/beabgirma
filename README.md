@@ -124,7 +124,7 @@ My goal is to keep improving by building, testing, breaking things, fixing them,
 ## Contact Me
 
 - 🧑‍💻 GitHub: [beabgirma](https://github.com/beabgirma)
-- 💼 LinkedIn:[](https://www.linkedin.com/in/beab-girma-yifrashewa-82178b350/)
+- 💼 LinkedIn:https://www.linkedin.com/in/beab-girma-yifrashewa-82178b350/
 - ✉️ Email: Add your email here
 - 🌍 Portfolio: Add your portfolio link here
 
