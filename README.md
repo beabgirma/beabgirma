@@ -14,6 +14,8 @@ I'm a **third-year university student studying in Canada at UBC Okanagan (UBCO)*
 I am currently learning **backend development, cloud operations, API design, and databases**.  
 I enjoy building practical projects that show real technical skills, including APIs, testing, clean project structure, GitHub workflows, and data storage.
 
+Java was one of the first programming languages I learned in university, and it helped me build a strong foundation in object-oriented programming.
+
 Right now, I am focused on:
 
 <p>
@@ -118,6 +120,7 @@ A study-focused app project built while learning web development.
 ### Programming Languages
 
 <p>
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=111111" />
@@ -191,8 +194,7 @@ My goal is to keep improving by building, testing, breaking things, fixing them,
 ## Contact Me
 
 - 🧑‍💻 GitHub: [beabgirma](https://github.com/beabgirma)
-- 💼 LinkedIn: https://www.linkedin.com/in/beab-girma-yifrashewa-82178b350/
-- ✉️ Email: beabgirma@gmail.com
-- 🌍 Portfolio: Add your portfolio link here
+- 💼 LinkedIn: [Beab Girma Yifrashewa](https://www.linkedin.com/in/beab-girma-yifrashewa-82178b350/)
+- ✉️ Email: [beabgirma@gmail.com](mailto:beabgirma@gmail.com)
 
 ---
