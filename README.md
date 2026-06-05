@@ -9,9 +9,9 @@
 ## About Me
 
 **Hello! My name is Beab Girma.**  
-I'm a student learning **backend development, cloud operations, and API design**.
+I'm a **third-year university student studying in Canada at UBC Okanagan (UBCO)**.
 
-I enjoy building practical projects that show real technical skills, including APIs, testing, clean project structure, and GitHub workflows.
+I am currently learning **backend development, cloud operations, and API design**. I enjoy building practical projects that show real technical skills, including APIs, testing, clean project structure, and GitHub workflows.
 
 Right now, I am focused on:
 
@@ -22,7 +22,6 @@ Right now, I am focused on:
 - Git and GitHub workflows
 - GitHub Actions
 - Cloud/devops fundamentals
-
 ---
 
 ## 🚀 Recent Projects
