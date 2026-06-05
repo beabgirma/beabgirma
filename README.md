@@ -151,9 +151,8 @@ A study-focused app project built while learning web development.
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/CURSOR-6C63FF?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/TERMINAL-4D4D4D?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&labelColor=111111" />
+ 
 </p>
 
 ---
