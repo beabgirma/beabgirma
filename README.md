@@ -27,25 +27,37 @@ Right now, I am focused on:
 
 ## 🚀 Recent Projects
 
-<div align="center">
+### [MIS CloudOps Dashboard](https://github.com/beabgirma/mis-cloudops-dashboard)
 
-<a href="https://github.com/beabgirma/mis-cloudops-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beabgirma&repo=mis-cloudops-dashboard&theme=tokyonight&hide_border=true" />
-</a>
+A cloud-based MIS operations dashboard built with FastAPI.
 
-<br><br>
+**What it includes:**
 
-<a href="https://github.com/beabgirma/mini-redis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beabgirma&repo=mini-redis&theme=tokyonight&hide_border=true" />
-</a>
+- FastAPI routes
+- Pydantic schemas
+- Service and repository layers
+- Pytest tests
+- GitHub Actions CI
+- Pull request workflow
 
-<br><br>
+---
 
-<a href="https://github.com/beabgirma/Study_Companion_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=beabgirma&repo=Study_Companion_App&theme=tokyonight&hide_border=true" />
-</a>
+### [Mini Redis](https://github.com/beabgirma/mini-redis)
 
-</div>
+A lightweight Redis-inspired in-memory key-value database built with Python.
+
+**What it includes:**
+
+- Command parsing
+- In-memory storage
+- SET, GET, and DELETE logic
+- Backend/database fundamentals
+
+---
+
+### [Study Companion App](https://github.com/beabgirma/Study_Companion_App)
+
+A study-focused app project built while learning web development.
 
 ---
 
@@ -58,27 +70,6 @@ Right now, I am focused on:
 </a>
 
 </div>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=beabgirma&show_icons=true&theme=radical&rank_icon=github"
-    height="190"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=beabgirma&layout=compact&theme=radical"
-    height="190"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=beabgirma&theme=radical&hide_border=true"
-  />
-</p>
 
 ---
 
