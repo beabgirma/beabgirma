@@ -7,7 +7,7 @@
 ## About Me
 
 **Hello! My name is Beab Girma.**  
-I'm a **third-year university student studying in Canada at UBC Okanagan (UBCO)**.
+I'm a **third-year university student studying in Canada at The University of British Columbia Okanagan(UBCO)**.
 
 I am currently learning **backend development, cloud operations, API design, and databases**.  
 I enjoy building practical projects that show real technical skills, including APIs, testing, clean project structure, GitHub workflows, and data storage.
